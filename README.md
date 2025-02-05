@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**divija-rao/divija-rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Divija!
 
-Here are some ideas to get you started:
+* 📊 Financial Mathematics grad student at NC State University with 5+ years of venture capital experience
+* 💻 Building Time Series and ML models to predict market volatility using VIX forecasting
+* 🔭 Working on: Interest Rate Modeling for Treasury Bond Pricing
+* 🚀 Previously: Led investments and exits at Fosun International's corporate venture arm and early-stage venture capital funds - Idea Fund Partners and Emphasis Ventures
+* 💡 Fun fact: I'm a certified yoga teacher and licensed realtor in North Carolina!
+* 🌟 Highlights: 6x MOIC exit via Pre-IPO, managed $50M fund allocation strategy
+* 🛠️ Tech stack: Python, SQL, R, MATLAB
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/divijarao/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Looking for something in particular?
+
+Check out my repositories for:
+* Financial Data Analysis projects using Python
+* Machine Learning models for market prediction
+* Interest Rate Modeling implementations
+
+Always excited to collaborate on fintech and quantitative projects! 🌟
