@@ -8,8 +8,8 @@ My name is Divija!
 * 🚀 Previously: Led investments and exits at Fosun Group's corporate venture arm and early-stage venture capital funds - Idea Fund Partners and Emphasis Ventures
 * 💡 Fun fact: I'm a certified yoga teacher and licensed realtor in North Carolina!
 * 🌟 Highlights: 6x MOIC exit via Pre-IPO, managed $100M+ fund allocation strategy
-* 🛠️ Tech stack: Python, SQL, R, MATLAB
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/divijarao/)
+* 🛠️ Tech stack: Python, SQL, R, SAS, MATLAB
+* 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divijarao/) | [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@divijarao.b)
 
 ## Looking for something in particular?
 
@@ -18,4 +18,4 @@ Check out my repositories for:
 * Machine Learning models for market prediction
 * Interest Rate Modeling implementations
 
-Always excited to collaborate on fintech and quantitative projects! 🌟
+Always excited to collaborate on quantitative finance projects! 🌟
